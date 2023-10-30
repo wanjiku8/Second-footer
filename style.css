@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+footer{
+    background-color: rgba(219, 44, 126, 0.87);
+    height: 900px;
+    margin-top: 1000px;
+    
+}
+.icons{
+    text-align: center;
+    font-size: 45px;
+    padding-top: 190px;
+    padding-right: 90px;
+    justify-content: center;
+    gap: 50px;
+    display: flex;
+    color: aliceblue;
+    
+
+
+}
+.facebook{
+background-color: blue;
+border-radius: 90px;
+width: 60px;
+height: 60px;
+text-align: center;
+}
+.linked-in{
+    background: rgb(52, 159, 230);
+    border-radius: 90px;
+    width: 55px;
+    height: 50px;
+    text-align: center;
+    
+}
+.twitter{
+    background: rgb(38, 212, 235);
+    border-radius: 90px;
+    width: 55px;
+    height: 50px;
+    text-align: center;
+
+}
+.instagram{
+    background: linear-gradient(purple,orange);
+    border-radius: 90px;
+    width: 55px;
+    height: 50px;
+    text-align: center;
+
+}
+.rectangle{
+    background: black;
+    color: white;
+    height: 540px;
+    padding-top:40px;
+    position: relative;
+    top: 1850px;
+   
+    
+}
+
+.service{
+    margin-top: 90px;
+    margin-left: 120px;
+    font-size: 20px;
+    
+}
+.contact{
+    margin-left: 1090px;
+    margin-top: -150px;
+    font-size: 20px;
+
+}
+.adress{
+    margin-left: 1090px;
+    margin-top: 60px;
+    font-size: 20px;
+
+}
+.why{
+    margin-left: 2090px;
+    margin-top: -195px;
+    font-size: 20px;
+
+
+}
